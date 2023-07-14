@@ -7,10 +7,6 @@ import Page2 from './Page2';
 import Footer from './Footer';
 
 function App() {
-	const test = () => {
-		console.log("Testing");
-	};
-
 	return (
 		<div className="App">
 			<Nav />
